@@ -9,8 +9,9 @@
  
  A aplicação consiste em uma enquete dos melhores jogos do ano atraves de votação, onde os dados são coletados e depois são listados entre os mais votados!
  
- <img src="https://user-images.githubusercontent.com/104622435/207476621-d53a5814-982d-465d-8014-ae587bfe45dc.png" width="48"/>
- 
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/104622435/207476621-d53a5814-982d-465d-8014-ae587bfe45dc.png" width="700" />
+ </div>
  ## Tecnologias utilizadas 
  
  
