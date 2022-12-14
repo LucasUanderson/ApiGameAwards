@@ -31,10 +31,20 @@
 
 Você pode acessar o código fonte do projeto inicial ou baixá-lo.
 
-## 🔨 Abrir e rodar o projeto
+## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com IDE Eclipse, Intellij ou a que tiver melhor experiencia. Para isso, na tela de launcher clique em:   
 
 - Open an Existing Project (ou alguma opção similar)
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 - Por fim clique em Ok
+
+A IDE deve executar algumas tasks do Maven para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar a API 🏆
+
+
+# Autor
+
+Lucas Uanderson Ferreira da Silva
+
+https://www.linkedin.com/in/lucas-uanderson-6270b3189/
+
